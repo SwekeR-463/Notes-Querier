@@ -22,7 +22,7 @@ This project allows you to upload your notes in PDF format and ask questions abo
 
     ```bash
     git clone https://github.com/SwekeR-463/Notes-Querier.git
-    cd notes-qa-assistant
+    cd notes-querier
     ```
 
 2. **Create a Virtual Environment**
