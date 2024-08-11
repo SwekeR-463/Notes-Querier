@@ -66,7 +66,3 @@ This project allows you to upload your notes in PDF format and ask questions abo
 
     - Upload your notes in PDF.
     - Ask your questions and get answers.
-
-## License
-
-This project is licensed under the Apache 2.0 License.
