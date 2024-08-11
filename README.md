@@ -53,6 +53,7 @@ This project allows you to upload your notes in PDF format and ask questions abo
     ollama pull nomic-embed-text
     ollama pull gemma2:2b
     ```
+    Feel free to use any model you like based upon your system.
 
 ## Usage
 
