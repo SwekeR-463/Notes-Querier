@@ -1,4 +1,4 @@
-# Notes Q&A Assistant
+# Notes Querier
 
 This project allows you to upload your notes in PDF format and ask questions about the content. The system uses natural language processing and retrieval-based question answering to help you study efficiently.
 
