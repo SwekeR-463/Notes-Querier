@@ -1,5 +1,9 @@
 # Notes Querier
 
+![NotesQuerier Screenshot](image.png)
+
+NotesQuerier is a fully local assistant that helps you turn your study notes into an interactive Q&A tool.<br>
+
 This project allows you to upload your notes in PDF format and ask questions about the content. The system uses natural language processing and retrieval-based question answering to help you study efficiently.
 
 ## Features
